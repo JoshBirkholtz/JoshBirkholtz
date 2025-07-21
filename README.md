@@ -19,5 +19,3 @@ I'm an aspiring full-stack developer and Information Systems Honours student at 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JoshBirkholtz&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
